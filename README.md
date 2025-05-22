@@ -1,0 +1,1 @@
+# Codon-Table-to-Amino-Acid-Sequence
